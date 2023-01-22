@@ -7,4 +7,4 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 # AtCoder Trophies
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=hotman78&theme=darkhub)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=hotman78&theme=darkhub&&&rank=SSS,SS,S,AAA,AA,A)](https://github.com/KATO-Hiro/AtCoderTrophies)
