@@ -5,3 +5,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hotman78&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+# AtCoder Trophies
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=hotman78&theme=darkhub)](https://github.com/KATO-Hiro/AtCoderTrophies)
