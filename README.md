@@ -1,6 +1,6 @@
 Contacts:
 
-- [Email](hotmanww@gmail.com)
+- [Email](<mailto:hotmanww@gmail.com>)
 - [Twitter](https://twitter.com/hotmanww)
 
 <p align="left"> 
