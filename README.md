@@ -14,5 +14,3 @@ Contacts:
 # Competitive Programming
 <a href="https://atcoder.jp/users/hotman78" target="_blank" title="hotman78"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhotman78" /></a>
 <a href="https://codeforces.com/profile/hotman78" target="_blank" title="hotman78"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fhotman78" /></a>
-
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=hotman78&theme=darkhub&&&rank=SSS,SS,S,AAA,AA,A)](https://github.com/KATO-Hiro/AtCoderTrophies)
