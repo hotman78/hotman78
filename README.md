@@ -35,7 +35,5 @@ Contacts:
 
 - [AtCoderじゃんけんの移植作(Webアプリ)](https://hotman78.github.io/atcoder-janken/)
 - [Library Checker TestCases (Webアプリ)](https://library-checker-testcases.hotman78.com/)
-- [ブログ(作成中, Webアプリ)](https://blog.hotman78.com/)
-- [上記問題の解説などを含むブログ(Qiita)](https://qiita.com/hotman78)
-- [ブログ(はてな)](https://hotman78.hatenablog.com/)
+- ブログ ([Webアプリ(作成中/ Next.js 使用)](https://blog.hotman78.com/), [Qiita](https://qiita.com/hotman78), [はてな](https://hotman78.hatenablog.com/))
 - [AtCoder にてコンテストの問題をすべて開く User Script](https://greasyfork.org/ja/scripts/387471-atcoder-all-open)
