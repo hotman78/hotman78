@@ -15,7 +15,7 @@ Contacts:
 <a href="https://atcoder.jp/users/hotman78" target="_blank" title="hotman78"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhotman78" /></a>
 <a href="https://codeforces.com/profile/hotman78" target="_blank" title="hotman78"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fhotman78" /></a>
 
-# プロダクト
+# プロダクト / 実績
 - ICPC Asia Yokohama Regional Contest (Give us sociability 2020 年：7 位 / 2022 年： 11 位)
 - ICPC Asia Pacific Championship (hot-k-k1 2024 年：35 位)
 - 株式会社フィックスターズ 2021 年春インターンシップ参加
