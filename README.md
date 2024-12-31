@@ -16,6 +16,13 @@ Contacts:
 <a href="https://codeforces.com/profile/hotman78" target="_blank" title="hotman78"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fhotman78" /></a>
 
 # プロダクト
+- ICPC Asia Yokohama Regional Contest (Give us sociability 2020 年：7 位 / 2022 年： 11 位)
+- ICPC Asia Pacific Championship (hot-k-k1 2024 年：35 位)
+- 株式会社フィックスターズ 2021 年春インターンシップ参加
+- [株式会社はてな 2022 年夏インターンシップ参加](https://hotman78.hatenablog.com/entry/2022/09/24/125850)
+- 株式会社フォルシア 2024 年夏インターンシップ参加
+- 株式会社エクサウィザーズ 2024 年夏インターンシップ参加
+- [コンピュテーション研究会 (2024 年 10 月 24 日開催) 登壇](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d8af2af309058a62dbfb133b2f208458e2dee3966c84402db2bdcb483d68000&tgid=IEICE-COMP)
 - [2024 年度 Research Assistant (Popular Arborescence を解くアルゴリズムのビジュアライズ, 長時間アクセスがないと立ち上げに時間がかかる事があります)](https://popular-arborescence.streamlit.app/)
 - [第一回 CodeQueen Writer](https://atcoder.jp/contests/codequeen2023-final-open)
 - Library Checker Contribute (問題作成):
