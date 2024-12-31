@@ -22,6 +22,7 @@ Contacts:
 - [株式会社はてな 2022 年夏インターンシップ参加](https://hotman78.hatenablog.com/entry/2022/09/24/125850)
 - 株式会社フォルシア 2024 年夏インターンシップ参加
 - 株式会社エクサウィザーズ 2024 年夏インターンシップ参加
+- 2022 年 12 月 応用情報技術者試験 合格
 - [コンピュテーション研究会 (2024 年 10 月 24 日開催) 登壇](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d8af2af309058a62dbfb133b2f208458e2dee3966c84402db2bdcb483d68000&tgid=IEICE-COMP)
 - [2024 年度 Research Assistant (Popular Arborescence を解くアルゴリズムのビジュアライズ, 長時間アクセスがないと立ち上げに時間がかかる事があります)](https://popular-arborescence.streamlit.app/)
 - [第一回 CodeQueen Writer](https://atcoder.jp/contests/codequeen2023-final-open)
